@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### I am Majid and this is my Profile Readme.md!
+##### I am Majid and this is my profile Readme.md!
 <!--
 **Abdul-Majid-Syed/Abdul-Majid-Syed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
